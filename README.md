@@ -19,17 +19,27 @@
 ## Стек
 
 **ОС:** Astra Linux SE (Орёл, Воронеж), Ubuntu/Debian, Windows Server 2012
+
 **Контейнеры:** Docker, docker-compose
+
 **Сети:** TCP/IP, DNS, маршрутизация, iptables, OpenVPN, Squid
+
 **Аутентификация:** Samba AD DC, LDAP, Kerberos, SSSD, winbind, JWT
+
 **Сервисы:** Nextcloud + Collabora, GitLab, Gitea, ClickHouse,
 MinIO, Portainer, Rocket.Chat
+
 **Веб:** Nginx, Python (FastAPI), React, SQLite
+
 **1С / Windows-инфраструктура:** 1С:Предприятие (сервер), VMware,
 SQL Management Studio, Mango (АТС), СКУД, СВН
+
 **Мониторинг:** Zabbix, Prometheus, Grafana
+
 **БД:** PostgreSQL, SQLite
+
 **Автоматизация:** Bash, Python, cron, rsync, VBScript
+
 **Прочее:** ЭЦП, AD (учётные записи), почтовые сервисы, веб-сайты
 
 ---
