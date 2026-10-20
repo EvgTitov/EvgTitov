@@ -52,6 +52,12 @@ SQL Management Studio, Mango (АТС), СКУД, СВН
 - Внедрял VPN-туннель, Prometheus + Grafana.
 - Администрировал домен, почту, сайт компании.
 
+### Nextcloud + Collabora (облако Ростелеком)
+- Поднял ВМ в облаке, настроил белый IP.
+- Развернул Nextcloud и Collabora в Docker-контейнерах.
+- Настроил связку: Nextcloud отдаёт файлы, Collabora через WOPI позволяет редактировать их прямо в браузере.
+- Настроил аутентификацию через Active Directory.
+
 ### Samba + Active Directory + ACL
 - Участвовал в миграции файловых серверов с Windows на Astra Linux.
 - Переносил шары, настраивал Samba с интеграцией в AD.
