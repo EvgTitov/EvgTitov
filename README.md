@@ -69,8 +69,7 @@ SQL Management Studio, Mango (АТС), СКУД, СВН
   для новостей, сервисов, календаря, сетевых ресурсов и чата.
 - Стек: Python (FastAPI), React, SQLite, LDAP/AD, Nginx, systemd.
 - Настроил аутентификацию через Active Directory (JWT + LDAP).
-- Не программист — портал собран с использованием ИИ и готовых решений,
-  архитектуру и логику продумывал сам.
+- Архитектуру и логику продумывал сам.
 
 ### Zabbix на Astra Linux SE «Воронеж»
 - Развернул Zabbix 7.0.10 + PostgreSQL 15 + Apache + PHP 8.2.
